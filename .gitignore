@@ -1,0 +1,12 @@
+/*
+!/templates/
+!.gitignore
+!check_match.py
+!cuda_check.py
+!delete_mongod.py
+!edit_id.py
+!pymongo.ipynb
+!pyvenv.cfg
+!stream.py
+!yolov8m-face.pt
+!requirements.txt
